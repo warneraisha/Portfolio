@@ -17,14 +17,14 @@ header {
 /* Logo styling */
 .logo {
   color: #100f0f; 
-  font-size: 4em;
+  font-size: 2rem;
   font-weight: bold;
 }
 /* Navigation links */
 .nav-links {
   list-style: none;
   display: flex;
-  gap: 20px;
+  gap: 10px;
 }
 
 .nav-links a {
@@ -42,10 +42,10 @@ header {
   min-height: 100vh; /* Full screen height */
   background: linear-gradient(to right, #601297, #bf8cbc, #e6e6e6);
   display: flex;
-  justify-content: flex-start;
+  justify-content: center;
   align-items: center;
   text-align: center;
-  padding: 5px;
+  padding: 20px;
 }
 
 .hero-content h1 {
